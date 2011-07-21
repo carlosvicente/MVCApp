@@ -13,6 +13,7 @@ namespace GitTestMVC.Controllers
 
         public ActionResult Index()
         {
+            int d = 4;
             return View();
         }
 
