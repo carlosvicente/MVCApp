@@ -7,7 +7,6 @@ namespace GitTestMVC.Models
 {
     public class News
     {
-        private int test = "asdasd";
         public String Subject { get; set; }
         public String Body { get; set; }
     }
